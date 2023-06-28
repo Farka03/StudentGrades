@@ -91,6 +91,3 @@ PUT (изменение существующей оценки) - http://localhos
     "comments": "Awesome"
 }
 DELETE (удаление существующей оценки) - http://localhost:8080/api/grades/{id оценки}
-
-
-
